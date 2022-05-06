@@ -1,7 +1,13 @@
 # Face_Analytics
 Face Analytics is the systematic computational analysis of data based on an individual's face. Face analytics software applications include face detection, facial landmark localization, age detection and gender detection
 
-# Web deploy Link: 
+![Screenshot_5](https://user-images.githubusercontent.com/63733989/167195250-a5ea4c79-8f45-44d0-b8c4-745bf7f91554.png)
+![Screenshot_6](https://user-images.githubusercontent.com/63733989/167195275-b6f84d4e-77ad-4050-8179-c3c59a3c453b.png)
+![Screenshot_7](https://user-images.githubusercontent.com/63733989/167195289-5cfecefb-f1eb-4617-a5e4-ec45e4107a15.png)
+
+
+
+# Web deployment Link: 
 https://face_analytics.herokuapp.com/ 
 
 If not working, please follow next steps
