@@ -2,7 +2,7 @@
 Face Analytics is the systematic computational analysis of data based on an individual's face. Face analytics software applications include face detection, facial landmark localization, age detection and gender detection
 
 # Web deploy Link: 
-https://moodme-ai-assesment.herokuapp.com/ 
+https://face_analytics.herokuapp.com/ 
 
 If not working, please follow next steps
 ## Installation
