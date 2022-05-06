@@ -19,7 +19,7 @@ def makedir (dest):
 
 
 ## on page load display the upload file
-@app.route('/')
+@app.route('/',methods=['GET'])
 def upload_form():
     flash('Drag files to upload here.')
     return render_template('home.html')
