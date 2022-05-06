@@ -9,7 +9,7 @@ Face Analytics is the systematic computational analysis of data based on an indi
 
 
 # Web deployment Link: 
-https://face_analytics.herokuapp.com/ 
+https://face-analytic.herokuapp.com/ 
 
 If not working, please follow next steps
 ## Installation
