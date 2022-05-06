@@ -1,0 +1,39 @@
+<!doctype html>
+<title>Face Analytics</title>
+<style>
+    body{background-color: aquamarine;}
+</style>
+
+<body>
+ 
+<h1 class="title">Face Analytics</h1>
+
+<h2 class="subtitle">Please upload jpg file</h2>
+
+
+
+<form method="post" action="/" enctype="multipart/form-data">
+
+        <div class="box__input">
+            <dl>
+                <p>
+                    <input type="file" name="files[]" multiple="true" autocomplete="off" required>
+                </p>
+            </dl>
+            <p>
+                <input type="submit" value="Submit">
+            </p>
+        </div>
+
+
+</form>
+
+{% if filename %}
+    <div>
+        <img src="data:image/jpeg;base64,{{ filename }}">
+    </div>
+
+{% endif %}
+
+</body>
+</html>
